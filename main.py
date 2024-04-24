@@ -1,13 +1,4 @@
-# Ajob Kustra 2022, Guest lecture material
-# Introduction to programming with Python (Advanced Example)
-# 
-# You may notice that some code could be optimized, shortened or more structured.
-# Keep in mind that this is introductive (although more advanced) educational material.
-# Therefore the focus was readable and understandable code for beginners with a basic grasp
-# on programming concepts such as primitive data structures, functions, loops and variables.
-#
-# As this might be of benefit to any starting developer, I have decided to open-source it.
-# Enjoy, and feel free to open an issue on my github (AjobK) or send an e-mail (ajobkustra.p@gmail.com)
+# Ajob Kustra 2022, Guest lecture material. Open-source (MIT License)
 
 import keyboard
 import time
