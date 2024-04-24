@@ -1,4 +1,9 @@
 # Ajob Kustra 2022, Guest lecture material. Open-source (MIT License)
+#
+# WARNING:
+# Code is meant to educate and to display core concepts in a game context.
+# It is for beginners at the end of the first programming course, therefore
+# optimilization and principles were not taken into account.
 
 import keyboard
 import time
