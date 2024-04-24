@@ -1,6 +1,9 @@
 # Dungeon Escape (Advanced section of introduction to Python)
 
-<img src="assets/promotional/dungeon_escape.gif" width="400px" alt="example video"/>
+<figure>
+    <img src="assets/promotional/dungeon_escape.gif" width="400px" alt="example video"/>
+    <figcaption>Example of dungeon escape</figcaption>
+</figure>
 
 Ajob Kustra 2022, Guest lecture material
 Introduction to programming with Python (Advanced Example)
