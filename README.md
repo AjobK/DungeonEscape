@@ -18,6 +18,10 @@ on programming concepts such as primitive data structures, functions, loops and 
 As this might be of benefit to any starting developer, I have decided to open-source it.
 Enjoy, and feel free to open an issue on my github (AjobK) or send an e-mail (ajobkustra.p@gmail.com)
 
+# Installation and support
+
+*This section is still to be written. You need Python...*
+
 # License (MIT, open-source)
 
 Copyright (c) 2024 Ajob Kustra
