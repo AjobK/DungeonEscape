@@ -15,7 +15,7 @@ levels = [ # For now only two maps
         [ 'wal ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ' ],
         [ 'wal ', 'wal ', 'wal ', '    ', '    ', 'key ', 'wal ', 'tlp ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ', 'wal ' ],
         [ 'wal ', 'wal ', 'wal ', '    ', 'wal ', 'wal ', 'wal ', 'up  ', 'wal ', 'wal ', 'wal ', 'qst3', 'wal ', 'wal ', 'wal ' ],
-        [ 'wal ', 'wal ', 'wal ', '    ', 'wal ', 'wal ', 'wal ', '    ', 'wal ', 'wal ', 'wal ', '    ', 'wal ', 'wal ', 'wal ' ],
+        [ 'wal ', 'wal ', 'wal ', '    ', 'wal ', 'wal ', 'wal ', 'lok3', 'wal ', 'wal ', 'wal ', '    ', 'wal ', 'wal ', 'wal ' ],
         [ 'wal ', 'wal ', 'wal ', '    ', 'wal ', 'wal ', 'wal ', '    ', 'wal ', 'wal ', 'wal ', '    ', 'wal ', 'wal ', 'wal ' ],
         [ 'wal ', 'wal ', 'wal ', '    ', 'wal ', 'wal ', 'wal ', '    ', 'wal ', 'wal ', 'wal ', 'lok2', 'wal ', 'wal ', 'wal ' ],
         [ 'wal ', 'wal ', 'wal ', '    ', '    ', '    ', '    ', '    ', '    ', '    ', '    ', '    ', 'wal ', 'wal ', 'wal ' ],

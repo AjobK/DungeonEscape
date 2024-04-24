@@ -1,7 +1,6 @@
 # Dungeon Escape (Advanced section of introduction to Python)
 
-(TODO: Add GIF example of the game. Gif below is placeholder)
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Example](assets/promotional/dungeon_escape.gif)
 
 Ajob Kustra 2022, Guest lecture material
 Introduction to programming with Python (Advanced Example)
