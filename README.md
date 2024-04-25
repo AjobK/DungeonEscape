@@ -1,11 +1,3 @@
-```                                                    
- ____  _____    _____ _____ _____ _____ _____ _____ 
-|    \|   __|  |   __|   __|     |  _  |  _  |   __|
-|  |  |  |  |  |   __|__   |   --|     |   __|   __|
-|____/|_____|  |_____|_____|_____|__|__|__|  |_____|
-
-```
-
 **Welcome to Dungeon Escape (Educational) 👋**
 
 After having used my CLI Adventure Game to teach many beginner  
@@ -38,6 +30,12 @@ Enjoy, and feel free to open an issue on my github (AjobK) or send an e-mail (aj
 
 ## License (MIT, open-source)
 
+```                                                    
+ ____  _____    _____ _____ _____ _____ _____ _____ 
+|    \|   __|  |   __|   __|     |  _  |  _  |   __|
+|  |  |  |  |  |   __|__   |   --|     |   __|   __|
+|____/|_____|  |_____|_____|_____|__|__|__|  |_____|
+
 Copyright (c) 2024 Ajob Kustra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -57,3 +55,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
