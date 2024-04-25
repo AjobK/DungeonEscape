@@ -1,4 +1,9 @@
-# Dungeon Escape (Advanced section of introduction to Python)
+# Dungeon Escape
+
+Ajob Kustra 2022, Guest lecture material (MIT License).
+Introduction to programming with Python (Advanced Example)  
+
+CLI adventure game written in Python.
 
 <figure>
     <p align="center">
@@ -7,9 +12,6 @@
         <em>Figure 1: Example of dungeon escape</em>
     </p>
 </figure>
-
-Ajob Kustra 2022, Guest lecture material
-Introduction to programming with Python (Advanced Example)
 
 You may notice that some code could be optimized, shortened or more structured.
 Keep in mind that this is introductive (although more advanced) educational material.
