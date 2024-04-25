@@ -1,11 +1,11 @@
-# Dungeon Escape
-**Welcome 👋**
+## Dungeon Escape 🦖
+**Welcome! 👋**
 
 After having used my CLI Adventure Game to teach many beginner students  
 as a software educator and guest lecturer, I decided to open-source  
 the material in the hopes that it benefits others.
 
-Feel free to contribute to this code-base or use it as you wish!
+Feel free to contribute to this code-base or use it as you wish.
 
 <br>
 <figure>
@@ -29,12 +29,23 @@ struggle with this.
 As this might be of benefit to any starting developer, I have decided to open-source it.
 Enjoy, and feel free to open an issue on my github (AjobK) or send an e-mail (ajobkustra.p@gmail.com)
 
-### Installation and support
+## Initialization
 
-*This section is still to be written. You need Python...*
+### Pre-requisites
 
+*This section is still to be HEAVILY extended*
 
-### License (MIT, open-source)
+- [Python 3.8 or newer](https://www.python.org/downloads/release/python-380/)
+
+### How to run
+
+#### Linux/Mac
+- `sudo python3 main.py`
+
+#### Windows
+- `python3 main.py`
+
+## License (MIT, open-source)
 
 ```                                                    
  ____  _____    _____ _____ _____ _____ _____ _____ 
