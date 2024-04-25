@@ -4,7 +4,7 @@
     <p align="center">
         <img src="assets/promotional/dungeon_escape.gif" width="400px" alt="example video"/>
         <br>
-        <em>Example of dungeon escape</em>
+        <em>Figure 1: Example of dungeon escape</em>
     </p>
 </figure>
 
