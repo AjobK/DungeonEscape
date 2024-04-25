@@ -1,11 +1,20 @@
-# Dungeon Escape
+```                                                    
+ ____  _____    _____ _____ _____ _____ _____ _____ 
+|    \|   __|  |   __|   __|     |  _  |  _  |   __|
+|  |  |  |  |  |   __|__   |   --|     |   __|   __|
+|____/|_____|  |_____|_____|_____|__|__|__|  |_____|
 
-## Introduction
-Ajob Kustra 2022, Guest lecture material (MIT License).
-Introduction to programming with Python (Advanced Example)  
+```
 
-CLI adventure game written in Python.
+**Welcome to Dungeon Escape (Educational) 👋**
 
+After having used my CLI Adventure Game to teach many beginner  
+students as a software educator and guest lecturer, I decided to open-source  
+the material in the hopes that it benefits others.
+
+Feel free to contribute to this code-base or use it as you wish!
+
+<br>
 <figure>
     <p align="center">
         <img src="assets/promotional/dungeon_escape.gif" width="400px" alt="example video"/>
@@ -13,6 +22,7 @@ CLI adventure game written in Python.
         <em>Figure 1: Example of dungeon escape</em>
     </p>
 </figure>
+<br>
 
 You may notice that some code could be optimized, shortened or more structured.
 Keep in mind that this is introductive (although more advanced) educational material.
