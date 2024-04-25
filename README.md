@@ -3,7 +3,7 @@
 <figure>
     <p align="center">
         <img src="assets/promotional/dungeon_escape.gif" width="400px" alt="example video"/>
-        <figcaption>Example of dungeon escape</figcaption>
+        <figcaption style="text-align:center;">Example of dungeon escape</figcaption>
     </p>
 </figure>
 
