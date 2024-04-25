@@ -36,6 +36,7 @@ Enjoy, and feel free to open an issue on my github (AjobK) or send an e-mail (aj
 |  |  |  |  |  |   __|__   |   --|     |   __|   __|
 |____/|_____|  |_____|_____|_____|__|__|__|  |_____|
 
+
 Copyright (c) 2024 Ajob Kustra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
