@@ -1,7 +1,8 @@
-**Welcome to Dungeon Escape (Educational) 👋**
+# Dungeon Escape
+**Welcome 👋**
 
-After having used my CLI Adventure Game to teach many beginner  
-students as a software educator and guest lecturer, I decided to open-source  
+After having used my CLI Adventure Game to teach many beginner students  
+as a software educator and guest lecturer, I decided to open-source  
 the material in the hopes that it benefits others.
 
 Feel free to contribute to this code-base or use it as you wish!
@@ -16,19 +17,24 @@ Feel free to contribute to this code-base or use it as you wish!
 </figure>
 <br>
 
+### Mission to educate
+
 You may notice that some code could be optimized, shortened or more structured.
 Keep in mind that this is introductive (although more advanced) educational material.
 Therefore the focus was readable and understandable code for beginners with a basic grasp
-on programming concepts such as primitive data structures, functions, loops and variables.
+on programming concepts such as primitive data structures, functions, loops and variables. The main purpose is to fill the gap between knowing the basics, 
+and putting the software in a context, as I have seen many beginner developers
+struggle with this.
 
 As this might be of benefit to any starting developer, I have decided to open-source it.
 Enjoy, and feel free to open an issue on my github (AjobK) or send an e-mail (ajobkustra.p@gmail.com)
 
-## Installation and support
+### Installation and support
 
 *This section is still to be written. You need Python...*
 
-## License (MIT, open-source)
+
+### License (MIT, open-source)
 
 ```                                                    
  ____  _____    _____ _____ _____ _____ _____ _____ 
